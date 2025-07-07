@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f8f9fa;
+  margin: 0;
+  padding: 0;
+}
+header {
+  text-align: center;
+  padding: 2em 0;
+  background: #222;
+  color: #fff;
+}
+.profile-pic {
+  width: 120px;
+  border-radius: 50%;
+}
+nav {
+  text-align: center;
+  margin: 1em 0;
+}
+nav a {
+  margin: 0 1em;
+  text-decoration: none;
+  color: #0074d9;
+}
+section {
+  max-width: 700px;
+  margin: 2em auto;
+  background: #fff;
+  padding: 2em;
+  border-radius: 8px;
+}
+footer {
+  text-align: center;
+  padding: 1em 0;
+  background: #222;
+  color: #fff;
+  margin-top: 2em;
+}
