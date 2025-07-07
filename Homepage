@@ -1,39 +1,39 @@
-body {
-  font-family: Arial, sans-serif;
-  background: #f8f9fa;
-  margin: 0;
-  padding: 0;
-}
-header {
-  text-align: center;
-  padding: 2em 0;
-  background: #222;
-  color: #fff;
-}
-.profile-pic {
-  width: 120px;
-  border-radius: 50%;
-}
-nav {
-  text-align: center;
-  margin: 1em 0;
-}
-nav a {
-  margin: 0 1em;
-  text-decoration: none;
-  color: #0074d9;
-}
-section {
-  max-width: 700px;
-  margin: 2em auto;
-  background: #fff;
-  padding: 2em;
-  border-radius: 8px;
-}
-footer {
-  text-align: center;
-  padding: 1em 0;
-  background: #222;
-  color: #fff;
-  margin-top: 2em;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Your Name | Portfolio</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="your-photo.jpg" alt="Your Name" class="profile-pic">
+    <h1>Your Name</h1>
+    <p>Web Developer • Designer • Creative Thinker</p>
+  </header>
+  <nav>
+    <a href="#projects">Projects</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+  </nav>
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Write a short paragraph introducing yourself, your background, and what makes you unique.</p>
+  </section>
+  <section id="projects">
+    <h2>Featured Projects</h2>
+    <ul>
+      <li><a href="project1-link">Project 1</a> – Short description</li>
+      <li><a href="project2-link">Project 2</a> – Short description</li>
+    </ul>
+  </section>
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <p>Email: <a href="mailto:your@email.com">your@email.com</a></p>
+  </section>
+  <footer>
+    <p>&copy; 2025 Your Name. All rights reserved.</p>
+  </footer>
+</body>
+</html>
