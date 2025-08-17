@@ -1,5 +1,5 @@
 # <center>Jake Brewer<center>  
-## Computer Science Capstone
+## <center>Computer Science Capstone<center>
 ## <center>SNHU | CS-499<center>
 ### Professinal assessment 
 
@@ -55,9 +55,4 @@ First step was to translate from Python to Java. This included researching compa
 
 
 ---
-
-## Contact Me
-📧 Email: [your@email.com](mailto:your@email.com)  
-💼 LinkedIn: [linkedin.com/in/YOUR-LINK](https://linkedin.com/in/YOUR-LINK)  
-🐙 GitHub: [github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)  
 
