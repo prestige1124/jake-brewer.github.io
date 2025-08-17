@@ -38,9 +38,16 @@ First step was to translate from Python to Java. This included researching compa
 
 ---
 
+<a href="https://github.com/prestige1124/AnimalShelterEnhanceOne" target="_blank">View on GitHub</a>
+
 
 ---
 
+<a href="https://github.com/YourUsername/animal-shelter-dashboard" target="_blank">View on GitHub</a>
+
+---
+
+<a href="https://github.com/YourUsername/animal-shelter-dashboard" target="_blank">View on GitHub</a>
 
 ---
 
