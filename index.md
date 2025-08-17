@@ -42,7 +42,7 @@ First step was to translate from Python to Java. This included researching compa
   <a href="https://github.com/prestige1124/jake-brewer.github.io/tree/main/AnimalShelterEnhanceOne/AnimalShelterEnhanceOne" target="_blank">
     View Animal Shelter Folder
     <br>
-    <img src="EnhanceOneA.png" height="250">
+    <img main="EnhanceOneA.png" height="250">
   </a>
 </center>
 
