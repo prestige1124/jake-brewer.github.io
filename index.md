@@ -39,7 +39,7 @@ First step was to translate from Python to Java. This included researching compa
 ---
 
 <center>
-  <a href="https://prestige1124.github.io/AnimalShelterEnhanceOne/AnimalShelterEnhanceOne/" target="_blank">
+  <a href="https://prestige1124.github.io/AnimalShelterEnhanceOne/AnimalShelterEnhanceOne/src" target="_blank">
     View Animal Shelter Folder
     <br>
     <img src="EnhanceOneA.png" height="250">
@@ -49,11 +49,10 @@ First step was to translate from Python to Java. This included researching compa
 
 ---
 
-<a href="https://github.com/YourUsername/animal-shelter-dashboard" target="_blank">View on GitHub</a>
+
 
 ---
 
-<a href="https://github.com/YourUsername/animal-shelter-dashboard" target="_blank">View on GitHub</a>
 
 ---
 
