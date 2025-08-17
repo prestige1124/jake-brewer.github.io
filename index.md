@@ -5,13 +5,7 @@ title: Jake Brewer | Portfolio
 
 # Jake Brewer  
 ## Computer Science Capstone
-### Professinal assessment 
-
-
-
-
-
-
+### Professinal assessment (add below and delte th is text)
 
 ### Code Review
 
@@ -20,22 +14,16 @@ ADD VIDEO LINK AND DESCRIPTION
 <code> LINK HERE </code>
 
 
-## About Me
-I’m Jake Brewer, a recent Computer Science graduate with a focus on **cybersecurity, data, and AI**. I enjoy building projects that blend practical problem-solving with clean, efficient code. My passion lies in creating technology that empowers users and improves everyday life.
+---
+
 
 ---
 
-## Featured Projects
-- [AI Chatbot](https://github.com/YOUR-USERNAME/ai-chatbot) – Conversational assistant project  
-- [Security Dashboard](https://github.com/YOUR-USERNAME/security-dashboard) – Interactive data visualization for security insights  
-- [Finance Tracker](https://github.com/YOUR-USERNAME/finance-tracker) – Helps users track expenses and financial goals  
+---
+
 
 ---
 
-## Video Demo
-Here’s a video demonstration of my work:  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allowfullscreen></iframe>
 
 ---
 
