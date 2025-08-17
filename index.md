@@ -39,9 +39,7 @@ First step was to translate from Python to Java. This included researching compa
 ---
 
 <center>
-  <a href="AnimalShelterEnhanceOne/">
-    View Animal Shelter Folder
-    <br>
+  <a href="AnimalShelterEnhanceOne/">View Animal Shelter Folder</a>
     <img src="EnhanceOneA.PNG" height="250">
   </a>
 </center>
