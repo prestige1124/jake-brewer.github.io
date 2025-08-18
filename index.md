@@ -23,9 +23,7 @@ One example of growth and knowledge in full-stack development, is from the Austi
 
 ### Code Review
 
-ADD VIDEO LINK AND DESCRIPTION
-
-<code> LINK HERE </code>
+<code> (https://youtu.be/zUhstMN85E4) </code>
 
 ---
 
