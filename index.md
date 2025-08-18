@@ -25,6 +25,18 @@ One example of growth and knowledge in full-stack development, is from the Austi
 
 https://youtu.be/zUhstMN85E4
 
+<h2>Code Review</h2>
+
+<p>Watch my detailed code review of the Austin Animal Shelter project where I demonstrate UI/UX design, backend logic, and security practices.</p>
+
+<iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/zUhstMN85E4" 
+        title="Code Review Video" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
 ---
 
 My portfolio contains artifacts the collectively demonstrate a full range of abilities in the computer science field; more specifically full-stack engineering, UI/UX design and security practices. The original artifact, developed using Python with the Dash framework, showcases my ability to refactor and enhance existing software, translate from an existing language and implement full-stack methods that fully integrate an interactive frontend, database management, backend logic and API calls. The final artifact is the culmination of theses enhancments, providing Austin Animal Shelter with a fully functional webpage with user authentication and ease of access for all users; technical and non technical. Combined, these artifacts and their iterations presents a clear picture of my growth from a student, to a professional capable of delivering business ready solutions that are both productive and secure.
