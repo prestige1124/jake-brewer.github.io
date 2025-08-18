@@ -40,10 +40,11 @@ The original artifact is a Python single-page application using the Dash framewo
 # Enhancement One
 First step was to translate from Python to Java. This included researching comparable components such as the pie-chart, grid and interactive map. Vaadin (frontend) was chosen for its simplicity and ability to be fully written in Java; paired with MongoDB as the database structure and Spring Boot for backend services.
 <center>
-  <a href="https://prestige1124.github.io/tree/AnimalShelterEnhanceOne/AnimalShelterEnhanceOne/">
+  <a href="https://prestige1124.github.io/AnimalShelterEnhanceOne/AnimalShelterEnhanceOne/">
     View Animal Shelter Folder</a>
+  <br>
     <img src="EnhanceOneA.PNG" height="250">
-  </a>
+  
 </center>
 
 ---
