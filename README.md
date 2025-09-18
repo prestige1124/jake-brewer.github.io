@@ -1,1 +1,1 @@
-# Jake-Brewer
+This ePortfolio encapsultes the three fields that i beleive will be the most rpeovetl in the futra, paried with their internceoncoit with APIs, mdouadlty, AI intertacting and data viadlation. Addatinly, I recosntreud a simple Python SPA (usign the Dash from wokr) to Java using a full stack strutre. 
