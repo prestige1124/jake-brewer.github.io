@@ -46,9 +46,9 @@ My portfolio contains artifacts the collectively demonstrate a full range of abi
 My first project is Ava, an AI based around real-world use cases such as identifying open ports, vulnerabilities, log analysis, system scanning and a method to interact with the AI and its tools. This Alpha build is designed to provide the user with a virtual defender hosted locally in their browser. The Ava will be able to converse with the user using free Llama API resources, paired with a simple security information event management (SEIM) interface for the user to track and notate system process, log analysis and real time reporting. Alpha 1.0 and beyond will expand further on core modules and add new modules to enhance/support the Ava's overall security framework.  
 
 <center>
-  <a href=https://github.com/prestige1124/Ava-Core.git</a>
-    <img src="EnhanceOneA.PNG" height="250">
-  </a>
+<a href="https://github.com/prestige1124/Ava-Core.git">
+  <img src="EnhanceOneA.PNG" height="250">
+</a>
 </center>
 
 ---
@@ -60,6 +60,7 @@ The second project (divided into three enhancments) is a Python single-page appl
 
 # Enhancement One
 First step was to translate from Python to Java. This included researching comparable components such as the pie-chart, grid and interactive map. Vaadin (frontend) was chosen for its simplicity and ability to be fully written in Java; paired with MongoDB as the database structure and Spring Boot for backend services.
+
 <center>
   <a href="AnimalShelterEnhanceTwo/">View Animal Shelter Folder</a>
     <img src="EnhanceOneA.PNG" height="250">
