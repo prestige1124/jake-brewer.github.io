@@ -43,7 +43,18 @@ My portfolio contains artifacts the collectively demonstrate a full range of abi
 
 ---
 
-The original artifact is a Python single-page application using the Dash framework for prototyping; written in Jupyter notebooks. To enhance the artifact and provide users with efficiency and productivity; I have identified three areas to expand. Software design and engineering,  algorithms and data structure  databases. 
+My first project is Ava, an AI based around real-world use cases such as identifying open ports, vulnerabilities, log analysis, system scanning and a method to interact with the AI and its tools. This Alpha build is designed to provide the user with a virtual defender hosted locally in their browser. The Ava will be able to converse with the user using free Llama API resources, paired with a simple security information event management (SEIM) interface for the user to track and notate system process, log analysis and real time reporting. Alpha 1.0 and beyond will expand further on core modules and add new modules to enhance/support the Ava's overall security framework.  
+
+<center>
+  <a href=https://github.com/prestige1124/Ava-Core.git</a>
+    <img src="EnhanceOneA.PNG" height="250">
+  </a>
+</center>
+
+---
+
+
+The second project (divided into three enhancments) is a Python single-page application using the Dash framework for prototyping; written in Jupyter notebooks. To enhance the artifact and provide users with efficiency and productivity; I have identified three areas to expand. Software design and engineering,  algorithms and data structure  databases. 
 
 ---
 
