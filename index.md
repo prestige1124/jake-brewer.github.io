@@ -47,7 +47,7 @@ My first project is Ava, an AI based around real-world use cases such as identif
 
 <center>
   <a href="https://github.com/prestige1124/Ava-Core.git">
-  </a>
+
 </center>
 
 ---
