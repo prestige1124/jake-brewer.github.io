@@ -48,7 +48,7 @@ My first project is Ava, an AI based around real-world use cases such as identif
 <center>
   <a href="https://github.com/prestige1124/Ava-Core">
     <p>View Ava Repo and ReadME</p>
-    <img src="ava.PNG" height="250">
+    <img src="ava.png" height="250">
    </a>
 </center>
 
