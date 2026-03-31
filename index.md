@@ -47,6 +47,8 @@ My first project is Ava, an AI based around real-world use cases such as identif
 
 <center>
   <a href="https://github.com/prestige1124/Ava-Core">
+    <p>View Ava Repo and ReadME</p>
+    <img src="ava.PNG" height="250">
    </a>
 </center>
 
@@ -61,7 +63,8 @@ The second project (divided into three enhancments) is a Python single-page appl
 First step was to translate from Python to Java. This included researching comparable components such as the pie-chart, grid and interactive map. Vaadin (frontend) was chosen for its simplicity and ability to be fully written in Java; paired with MongoDB as the database structure and Spring Boot for backend services.
 
 <center>
-  <a href="AnimalShelterEnhanceTwo/">View Animal Shelter Folder</a>
+  <a href="AnimalShelterEnhanceOne/">
+    <p>View Animal Shelter Folder</p>
     <img src="EnhanceOneA.PNG" height="250">
   </a>
 </center>
@@ -69,17 +72,21 @@ First step was to translate from Python to Java. This included researching compa
 ---
 
 The second enchantment expanded upon and added an additional algorithm function. This includes creating new interface components to allow the user to select two parameters, with a wider range of data to choose from. The original artifact only allowed the user to select specific rescue types based on dog breeds; where as the enchantment allows the user to select any animal within a selected age range.
+
 <center>
-  <a href="AnimalShelterEnhanceTwo/">View Animal Shelter Folder</a>
-    <img src="EnhanceTwo.PNG" height="250">
+  <a href="AnimalShelterEnhanceTwo/">
+    <p>View Animal Shelter Folder</p>
+    <img src="EnhanceOneB.PNG" height="250">
   </a>
 </center>
 
 ---
 
 The third enchantment refactored the existing code to implement API calls and created modularity within the application. Additionally, I created a login page to direct user to authenticate before accessing data, and making unauthorized changes to the large dataset. This security practice follows the Zero Trust model; first authenticate, then trust. The combination of enhancements completes the full-stack development from a simple Python SPA to a complex, but modular application. More importantly, this can be utilized to expand to other devices such as Android phones or tablets (either in Java or Kotlin). 
+
 <center>
-  <a href="AnimalShelterEnhanceThree/">View Animal Shelter Folder</a>
+  <a href="AnimalShelterEnhanceThree/">
+    <p>View Animal Shelter Folder</p>
     <img src="EnhanceThree.PNG" height="250">
   </a>
 </center>
