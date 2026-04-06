@@ -1,6 +1,6 @@
 # <center>Jake Brewer<center>  
 ### <center>Computer Science Graduate | Full-Stack Developer | Security-Focused Engineer<center>
-### Professinal Portfolio 
+### Professinal Portfolio ### Contact jbrewer1124@gmail.com
  
 ---
 #### My passion is to build secure, accessible and scalable applications with a focus on AI architecture, full-stack development, system security, and real-world scenarios.  
