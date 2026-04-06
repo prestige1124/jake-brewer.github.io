@@ -1,43 +1,40 @@
 # <center>Jake Brewer<center>  
 ### <center>Computer Science Graduate | Full-Stack Developer | Security-Focused Engineer<center>
 ### Professinal Portfolio | Contact jbrewer1124@gmail.com
- 
 ---
 #### My passion is to build secure, accessible and scalable applications with a focus on AI architecture, full-stack development, system security, and real-world scenarios.  
 #### My experience includes:
-    • Java, Python, JavaScript and C# 
-    • Full-stack web development (Spring Boot, Vaadin, MongoDB) 
-    • Mobile development (Kotlin)
-    • Security practices (authentication, input validation, vulnerability analysis, secure coding, OWASP) 
-    • Data structures, algorithms, and performance optimization 
+   • Java, Python, JavaScript and C# 
+   • Full-stack web development (Spring Boot, Vaadin, MongoDB) 
+   • Mobile development (Kotlin)
+   • Security practices (authentication, input validation, vulnerability analysis, secure coding, OWASP) 
+   • Data structures, algorithms, and performance optimization 
 #### I aim to specialize in transforming simple visions such as AVA (blue team AI defender), into production-ready applications with clean architecture and practical security. 
-
 ---
 ### Ava – AI Security Assistant (Featured Project)
 #### Explore Ava's Development (Alpha v0.1 → Alpha v1.0) 
-    • AI-powered defensive security tool (blue team)
-    • Detects vulnerabilities, open ports, log analysis and reports
-    • Fast API integration
-    • Built with modular architecture 
-    • Future: SIEM + automation + AI modules
+   • AI-powered defensive security tool (blue team)
+   • Detects vulnerabilities, open ports, log analysis and reports
+   • Fast API integration
+   • Built with modular architecture 
+   • Future: SIEM + automation + AI modules
 #### [Main Repository] https://github.com/prestige1124/Ava-Core.git
 #### [View All Versions] https://github.com/prestige1124/Ava-Core/releases
-
 ---
 ### Animal Shelter Full-Stack Application (SNHU Capstone)
 #### Before planned enhancements:
-    • Simple Python Dash SPA 
-    • Basic filtering + charts 
-    • Built in VM with stored data
+   • Simple Python Dash SPA 
+   • Basic filtering + charts 
+   • Built in VM with stored data
 #### [Main Repository] https://github.com/prestige1124/CS-340-Client-Server-Development/blob/527688a79550d2377ae6662e0048a0961ae5f24e/Project%202%2C%20Web%20Application%20Dashboard%2C%20BrewerJ.ipynb
 #### [ReadME] https://github.com/prestige1124/CS-340-Client-Server-Development/blob/527688a79550d2377ae6662e0048a0961ae5f24e/README.md
 ### After planned enhancements:
-    • Java + Vaadin frontend 
-    • Spring Boot backend 
-    • MongoDB database 
-    • Advanced filtering algorithm 
-    • API integration 
-    • Secure login system
+   • Java + Vaadin frontend 
+   • Spring Boot backend 
+   • MongoDB database 
+   • Advanced filtering algorithm 
+   • API integration 
+   • Secure login system
 #### [Enhancement One] https://github.com/prestige1124/jake-brewer.github.io/tree/dd4a5c389d67a2634953e77cd76d68e6a019013e/AnimalShelterEnhanceOne/AnimalShelterEnhanceOne/src
 
 <center>
