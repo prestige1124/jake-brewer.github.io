@@ -53,7 +53,8 @@ My first project is Ava, an AI based around real-world use cases such as identif
 </center>
 
 ---
-
+[Main Repository] https://github.com/prestige1124/Ava-Core.git
+[View All Versions] https://github.com/prestige1124/Ava-Core/releases
 
 The second project (divided into three enhancments) is a Python single-page application using the Dash framework for prototyping; written in Jupyter notebooks. To enhance the artifact and provide users with efficiency and productivity; I have identified three areas to expand. Software design and engineering,  algorithms and data structure  databases. 
 
